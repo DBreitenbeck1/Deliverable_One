@@ -57,7 +57,7 @@ public class Deliv1 {
 			methodOfTravel = "a charter flight";
 		}
 
-		result = ("Since you're a group of " + groupSize + " going on " + vacationType + 
+		result = ("Since you are a group of " + groupSize + " going on " + vacationType + 
 				" vacation, you should take "+ methodOfTravel + " to " + destination + ".");
 
 		System.out.println(result);
